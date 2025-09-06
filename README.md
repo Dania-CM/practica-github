@@ -1,2 +1,2 @@
 # practica-github
-practica 1 de github
+practica  de github
